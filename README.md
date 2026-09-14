@@ -1,4 +1,4 @@
 # ICS2608
 
-
-[[https://codingphrog.github.io/ICS2608/ | Activity 2]]
+Recent Activity / Activity 2
+https://codingphrog.github.io/ICS2608/
