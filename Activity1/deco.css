@@ -1,0 +1,56 @@
+body {
+    font-family: 'Jua', sans-serif;
+    padding-bottom: 20px;
+}
+
+.title {
+    color: #7f4328;
+    text-align: center;
+}
+
+hr {
+    height: 5px;
+    background-color: #7f4328;
+    border: none;
+}
+
+.CaliMaki {
+    display: block;
+    border-radius: 20px;
+    border: 4.5px dashed #7f4328;
+    max-width: 500px; 
+    width: 60%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box {
+    background-color: #ffd6ac;
+    border-radius: 20px;
+    box-shadow: 0px 10px 0px #7f4328;
+    border: 3.5px solid #7f4328;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.header {
+    color: #7f4328;
+    margin: 0px;
+}
+
+.colored_justify {
+    margin: 1px;
+    text-align: justify;
+    color: #7f4328;
+}
+
+li {
+    padding-top: 3px;
+}
+
+.reflection {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}

@@ -1,0 +1,64 @@
+/*Name and Section*/
+.profile {
+    text-align: center;
+}
+
+#me {
+    background: linear-gradient(to right, #48653e, #ddbf44);
+    -webkit-background-clip: text;
+    background-clip: text;    
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
+
+/*everything else*/
+.question {
+    background-color: #fcfffb;
+    border: 3.5px solid #48653e;
+    border-radius: 20px;
+    box-shadow: 0px 10px 0px #48653e;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.example-box {
+    background-color: #d3d8d1;
+    border-radius: 3.5px;
+    padding: 9.5px;
+    margin-top: 3px;
+}
+
+h1 {
+    color: #33492c;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    text-align: justify;
+    margin: 0px;
+    margin-top: 5px;
+    padding: 0px;
+}
+
+hr {
+    height: 4px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #48653e;
+    border: none;
+}
+
+* {
+    color: #48653e;
+}
+
